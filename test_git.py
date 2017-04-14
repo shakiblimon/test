@@ -1,5 +1,7 @@
 print (" >>> This is test code for git <<< ")
 
+# Find out which year is leap year
+
 year = int(input("Enter the Year: "))
 
 if(year)%400 == 0:
